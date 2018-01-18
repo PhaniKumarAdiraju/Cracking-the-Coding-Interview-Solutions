@@ -1,4 +1,4 @@
-package bloomberg;
+package others;
 
 public class NextGreaterElementLeet496 {
 
